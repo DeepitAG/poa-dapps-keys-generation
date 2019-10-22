@@ -7,7 +7,7 @@ constants.ABIsSources = {
   KeysManager: 'KeysManager.abi.json'
 }
 constants.userDeniedTransactionPattern = 'User denied transaction'
-constants.baseURL = '/'
+constants.baseURL = ''
 
 constants.NETWORKS = {
   '191': {
